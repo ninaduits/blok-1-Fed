@@ -1,9 +1,4 @@
-# blok-1-Fed
-Mijn site
-
-LINK SITE: https://flourishing-marshmallow-22a650.netlify.app
-
-
+LINK SITE: http://127.0.0.1:5500/index.html
 
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
