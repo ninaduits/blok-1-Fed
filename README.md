@@ -1,4 +1,4 @@
-LINK SITE: (https://helpful-trifle-3c12f6.netlify.app)
+LINK SITE: (https://lustrous-alpaca-bb3183.netlify.app)
 
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
@@ -315,7 +315,6 @@ Dingen die me zijn gelukt.
 Responsive maar niet mooi.
 Dark/light mode
 Animaties
-SVG
 Advanced positions
 States van controls
 Microinteractions: hoveren over button
